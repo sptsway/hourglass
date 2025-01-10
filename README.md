@@ -1,5 +1,5 @@
 # hourglass
-```shows time as %, a browser extension``` <br>`
+```shows time as %, a browser extension``` <br>
 
 ### why?
 ```see the ticking time of your day, and hurry up!``` <br>
