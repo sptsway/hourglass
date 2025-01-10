@@ -1,9 +1,8 @@
 {
   "manifest_version": 3,
   "name": "hourglass",
-  "version": "1.0",
+  "version": "1.1",
   "description": "shows time as %",
-  //"permissions": ["storage"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
@@ -16,5 +15,10 @@
     "16": "icons/hourglass.png",
     "48": "icons/hourglass.png",
     "128": "icons/hourglass.png"
+  },
+  "browser_specific_settings": {
+  "gecko": {
+    "id": "hourglass@spt.com"
+    }
   }
 }
